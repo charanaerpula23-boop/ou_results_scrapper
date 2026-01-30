@@ -1,0 +1,3494 @@
+[
+  {
+    "student": {
+      "hallticket": "110624861009",
+      "gender": "MALE",
+      "name": "B KESHAV KUMAR",
+      "father": "B NARESH KUMAR",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "A"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861013",
+      "gender": "FEMALE",
+      "name": "GATLA SRINIDHI",
+      "father": "GATLA SATHYANARAYANA",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "A"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "A"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PROMOTED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861008",
+      "gender": "FEMALE",
+      "name": "BAIRAGONI VAISHNAVI",
+      "father": "BAIRAGONI RAJU",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861017",
+      "gender": "MALE",
+      "name": "JANAGAM SAI KIRAN",
+      "father": "JANAGAM THIRUPATHI",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "A"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861016",
+      "gender": "MALE",
+      "name": "GOWLIKAR SNEHAL BABA",
+      "father": "GOWLIKAR AJAY KUMAR",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "S"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "A"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "A"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PROMOTED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861018",
+      "gender": "MALE",
+      "name": "JUDAIYA AKSHAY",
+      "father": "J SURAJ KIRAN",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861007",
+      "gender": "MALE",
+      "name": "ATHANGBODHI KISHOR DHENGRE",
+      "father": "KISHOR DEOMANJI DHENGRE",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861010",
+      "gender": "MALE",
+      "name": "CHENNABOINA MANOHAR",
+      "father": "CHENNABOINA SRINIVAS",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PROMOTED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861005",
+      "gender": "MALE",
+      "name": "ARAKALA SAI KIRAN",
+      "father": "A SRINIVAS",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PROMOTED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861003",
+      "gender": "MALE",
+      "name": "ANGAREKULA MANIKANTA",
+      "father": "ANGAREKULA BHUMESH",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "DSTR2",
+        "subject": "DATA STRUCTURES",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "ACNS2",
+        "subject": "ADVANCE COMPUTER NETWORKS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "COMPLETED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861006",
+      "gender": "MALE",
+      "name": "ARYAN SHARMA",
+      "father": "MANOJ SHARMA",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861002",
+      "gender": "MALE",
+      "name": "A LALITH MANOHAR",
+      "father": "A ANJANEYULU",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "A"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861004",
+      "gender": "MALE",
+      "name": "ANUP MUSIGERI",
+      "father": "ANANT R MUSIGERI",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861011",
+      "gender": "FEMALE",
+      "name": "C SREE ANTARA RANI",
+      "father": "C S VENU",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861001",
+      "gender": "MALE",
+      "name": "A CHARAN TEJA YADAV",
+      "father": "A ANJANEYULU",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "ACNS2",
+        "subject": "ADVANCE COMPUTER NETWORKS",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "COMPLETED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861023",
+      "gender": "FEMALE",
+      "name": "KOMAL SUTHAR",
+      "father": "RAJESH SUTHAR",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861028",
+      "gender": "FEMALE",
+      "name": "MERUPULA NISHWITHA",
+      "father": "MERUPULA VENKAT REDDY",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "FAIL"
+      }
+    ],
+    "result": "PROMOTED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861033",
+      "gender": "MALE",
+      "name": "MOHD ABDUL KHALID",
+      "father": "MOHD ABDUL WAHEED",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861029",
+      "gender": "MALE",
+      "name": "MOHAMMAD ALAMDAR  HUSSAIN",
+      "father": "BAQUAR HUSSAIN",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "A"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861034",
+      "gender": "MALE",
+      "name": "MOHD AFAAN",
+      "father": "MOHAMMED JAWEED",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PROMOTED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861036",
+      "gender": "FEMALE",
+      "name": "NAMA KAREN VARNIKAA",
+      "father": "N D KRUPADAN",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "FAIL"
+      }
+    ],
+    "result": "PROMOTED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861038",
+      "gender": "MALE",
+      "name": "NAMILE SAI SIDDHARTH",
+      "father": "NAMILE VENKATESH",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "OOP.2",
+        "subject": "OBJECT ORIENTED PROGRAMMING USING CPP",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "CARC2",
+        "subject": "COMPUTER ARCHITECTURE",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DSTR2",
+        "subject": "DATA STRUCTURES",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "ACNS2",
+        "subject": "ADVANCE COMPUTER NETWORKS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "COMPLETED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861037",
+      "gender": "MALE",
+      "name": "NAMDARI DINESH",
+      "father": "NAMDARI NARSINGH RAO",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861022",
+      "gender": "MALE",
+      "name": "KOLA AJITH KUMAR",
+      "father": "KOLA CHANDRAIAH",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "IWEB1",
+        "subject": "INTRODUCTION TO WEB TECHNOLOGY",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "COMPLETED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861021",
+      "gender": "MALE",
+      "name": "KANDURI ROHITH KUMAR",
+      "father": "KANDURI ASHOK",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "A"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861020",
+      "gender": "MALE",
+      "name": "KAMMAMPATI GANESH",
+      "father": "KAMMAMPATI LINGAIAH",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PROMOTED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861040",
+      "gender": "MALE",
+      "name": "O M GOURAV",
+      "father": "O M RAJU",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PROMOTED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861039",
+      "gender": "MALE",
+      "name": "NARESH DAS",
+      "father": "SARATH DAS",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "A"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PROMOTED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861041",
+      "gender": "FEMALE",
+      "name": "PADIGEVAR KALYANI",
+      "father": "PADIGEVAR MARUTHI",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "A"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PROMOTED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861045",
+      "gender": "MALE",
+      "name": "PUNAM SUNNY",
+      "father": "PUNAM NAGESH",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "A"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861047",
+      "gender": "MALE",
+      "name": "RAJAMAHENDRAVARAPU  MANOJ  KUMAR",
+      "father": "RAJAMAHENDRAVARAPU  SATYANARAYANA",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PROMOTED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861046",
+      "gender": "MALE",
+      "name": "PYLA HARSHAVARDHAN",
+      "father": "PYLA TATA BABU",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861048",
+      "gender": "MALE",
+      "name": "RAM BINAY YADAV",
+      "father": "KRISHNA SINGH YADAV",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861052",
+      "gender": "MALE",
+      "name": "SAMPATWAR PRASHANT SURYAKANT",
+      "father": "SURYAKANT",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "DSTR2",
+        "subject": "DATA STRUCTURES",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "COMPLETED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861055",
+      "gender": "MALE",
+      "name": "SHAIK SAMEER",
+      "father": "SHAIK MAHBOOB",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "A"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861024",
+      "gender": "MALE",
+      "name": "KOTHA KARTIKEYA",
+      "father": "KOTHA KIRANKUMAR",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "S"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "A"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PROMOTED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861025",
+      "gender": "MALE",
+      "name": "KRISHNA KUMAR",
+      "father": "RAJESH SINGH",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861030",
+      "gender": "MALE",
+      "name": "MOHAMMED AHMED",
+      "father": "MOHAMMED HAMED",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861057",
+      "gender": "MALE",
+      "name": "SONU KUMAR",
+      "father": "RAJIV CHOUDHARY",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "MFCS1",
+        "subject": "MATHEMATICAL FOUNDATION OF COMPUTER SCIENCES",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "IWEB1",
+        "subject": "INTRODUCTION TO WEB TECHNOLOGY",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "LAB11",
+        "subject": "C-PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "A"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB31",
+        "subject": "WEB TECHNOLOGY (LAB)",
+        "credits": "2.0",
+        "grade": "A"
+      },
+      {
+        "code": "LAB41",
+        "subject": "IT WORKSHOP (LAB)",
+        "credits": "2.0",
+        "grade": "A"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "ALREADY PROMOTED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861031",
+      "gender": "MALE",
+      "name": "MOHAMMED AZEEM",
+      "father": "MOHAMMED AZIZ",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861058",
+      "gender": "MALE",
+      "name": "SUNIL SANJEEV",
+      "father": "SANJEEV",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "CARC2",
+        "subject": "COMPUTER ARCHITECTURE",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "DSTR2",
+        "subject": "DATA STRUCTURES",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "COMPLETED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861032",
+      "gender": "MALE",
+      "name": "MOHAMMED HAROON AZAM",
+      "father": "MOHAMMED KAUNAIN AZAM",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "FAIL"
+      }
+    ],
+    "result": "PROMOTED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861035",
+      "gender": "MALE",
+      "name": "MOKIDI VISHAL",
+      "father": "MOKIDI VENUGOPAL",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "FAIL"
+      }
+    ],
+    "result": "PROMOTED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861063",
+      "gender": "MALE",
+      "name": "THAKUR PRAJWAL SINGH",
+      "father": "THAKUR LAXMAN SINGH",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "IWEB1",
+        "subject": "INTRODUCTION TO WEB TECHNOLOGY",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "COMPLETED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861064",
+      "gender": "MALE",
+      "name": "UPPU RAMCHARAN",
+      "father": "UPPU SRINIVAS",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861042",
+      "gender": "FEMALE",
+      "name": "PALLAPU VIDHATRI",
+      "father": "PALLAPU RAJU",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861043",
+      "gender": "MALE",
+      "name": "PENDYALA YESHWANTH",
+      "father": "PENDYALA SRINIVAS",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "FP&S2",
+        "subject": "FUNDAMENTALS OF PROBABILITY AND STATISTICS",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "OOP.2",
+        "subject": "OBJECT ORIENTED PROGRAMMING USING CPP",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "CARC2",
+        "subject": "COMPUTER ARCHITECTURE",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "DSTR2",
+        "subject": "DATA STRUCTURES",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "ACNS2",
+        "subject": "ADVANCE COMPUTER NETWORKS",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "ALREADY PROMOTED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861044",
+      "gender": "MALE",
+      "name": "PRATHAPAGIRI VINEEL MAHENDRA",
+      "father": "PRATHAPAGIRI NARAYAN RAO",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861049",
+      "gender": "MALE",
+      "name": "RAMESH GOUD",
+      "father": "DILIP GOUD",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861051",
+      "gender": "FEMALE",
+      "name": "SAMEERA MUSKAN",
+      "father": "MD RAHEEM",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "S"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "A"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "A"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861053",
+      "gender": "MALE",
+      "name": "SHAIK ASHWAQ HUSSAIN",
+      "father": "SHAIK NOORULLAH",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "A"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861054",
+      "gender": "MALE",
+      "name": "SHAIK IRFAN",
+      "father": "SHAIK SHAJAHAN",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861056",
+      "gender": "FEMALE",
+      "name": "SHREEYA SHAH",
+      "father": "ANOOP SHAH",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "A"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "B"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861061",
+      "gender": "MALE",
+      "name": "SYED HUSSAIN",
+      "father": "SYED ISMAIL",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "FAIL"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PROMOTED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861062",
+      "gender": "MALE",
+      "name": "SYED SALMAN ALI",
+      "father": "SYED SAYEED ALI",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  },
+  {
+    "student": {
+      "hallticket": "110624861065",
+      "gender": "MALE",
+      "name": "VANAM RAVI YADAV",
+      "father": "VANAM MALLESH YADAV",
+      "course": "BCA(CBCS)"
+    },
+    "marks": [
+      {
+        "code": "AMTH3",
+        "subject": "APPLIED MATHEMATICS",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "JAVA3",
+        "subject": "JAVA PROGRAMMING",
+        "credits": "4.0",
+        "grade": "E"
+      },
+      {
+        "code": "ENV33",
+        "subject": "ENVIRONMENTAL SCIENCE",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "OSC.3",
+        "subject": "OPERATING SYSTEM CONCEPTS",
+        "credits": "4.0",
+        "grade": "C"
+      },
+      {
+        "code": "DBD.3",
+        "subject": "DATABASE DESIGN",
+        "credits": "4.0",
+        "grade": "D"
+      },
+      {
+        "code": "LAB33",
+        "subject": "JAVA PROGRAMMING (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB43",
+        "subject": "OPERATING SYSTEM CONCEPTS (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      },
+      {
+        "code": "LAB53",
+        "subject": "DATABASE DESIGN (LAB)",
+        "credits": "2.0",
+        "grade": "S"
+      }
+    ],
+    "result": "PASSED"
+  }
+]
